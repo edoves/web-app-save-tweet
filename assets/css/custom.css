@@ -1,0 +1,20 @@
+* {margin:0; padding: 0;}
+
+h1, h2, .decs {
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+#content {
+    margin-top: 40px;
+}
+.remove-tweet,
+.remove-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
